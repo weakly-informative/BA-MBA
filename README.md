@@ -1,2 +1,2 @@
 # BA-MBA
-Code for "Meta-analysis of Bayesian Analyses"
+Companion code for "Meta-analysis of Bayesian Analyses"
